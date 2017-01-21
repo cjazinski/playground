@@ -1,7 +1,7 @@
 {
-  "name": "foundation-sites-template",
+  "name": "my-foundation-sites-template",
   "version": "1.0.0",
-  "description": "Basic template for a new Foundation for Sites project.",
+  "description": "Basic template based on Foundation Sites project.",
   "main": "gulpfile.js",
   "devDependencies": {
     "gulp": "^3.9.0",
@@ -16,14 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zurb/foundation-sites-template.git"
+    "url": "https://github.com/cjazinski/playground.git"
   },
   "bugs": {
-    "url": "https://github.com/zurb/foundation-sites/issues",
-    "email": "foundation@zurb.com"
+    "url": "https://github.com/cjazinski/playground/issues",
+    "email": "chris@jazinski.com"
   },
-  "author": "ZURB <foundation@zurb.com>",
-  "license": "MIT",
+  "author": "Christopher Jazinski <chris@jazinski.com>",
   "private": true,
   "dependencies": {
     "gulp-autoprefixer": "^3.1.0"
