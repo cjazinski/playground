@@ -1,13 +1,12 @@
 {
-  "name": "foundation-sites-template",
+  "name": "my-foundation-sites-template",
   "version": "1.0.0",
   "authors": [
-    "ZURB <foundation@zurb.com>"
+    "Christopher Jazinski <chris@jazinski.com>"
   ],
-  "description": "Basic template for a new Foundation for Sites project.",
+  "description": "Basic template for my starting sites based on Foundation for Sites project.",
   "main": "index.html",
-  "license": "MIT",
-  "homepage": "http://foundation.zurb.com",
+  "homepage": "http://jazinski.com",
   "dependencies": {
     "foundation-sites": "~6.3.0",
     "motion-ui": "~1.2.2"
